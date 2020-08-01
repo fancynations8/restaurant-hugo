@@ -5,10 +5,6 @@ summaryLength = "10"
 theme = "restaurant-hugo"
 title = "Restaurant Theme By Themefisher"
 [[menu.main]]
-URL = "contact-us"
-name = "Contact Us"
-weight = 5
-[[menu.main]]
 URL = "subscribe"
 name = "News"
 weight = 4
